@@ -1,6 +1,6 @@
 # golang-doc-jp
 
-[Documentation - The Go Programming Language](https://go.dev/doc/) の [すてにゃん](https://twitter.com/stefafafan) による非公式な日本語訳プロジェクトです。初めのうちはすてにゃんのペースで順番に翻訳していきます。なお `/blog/` 以下のファイルの翻訳は現時点では考えていません。
+[Documentation - The Go Programming Language](https://go.dev/doc/) の非公式な日本語訳プロジェクトです。初めのうちは[すてにゃん](https://twitter.com/stefafafan)が独断で翻訳していきます。なお `/blog/` 以下のファイルの翻訳は現時点では考えていません。
 
 https://golang-doc-jp.pages.dev/ にて公開中です。（DocusaurusとCloudflare Pagesを使っています）
 

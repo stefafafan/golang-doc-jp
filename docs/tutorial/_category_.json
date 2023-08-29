@@ -1,0 +1,8 @@
+{
+  "label": "Tutorial",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Go初心者におすすめな公式チュートリアル集です。"
+  }
+}
